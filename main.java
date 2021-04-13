@@ -19,6 +19,8 @@ public class main {
         tester1(new int[][]{{5,3,2}},new int[][]{{5},{3},{2}},"q1c");
         tester1(new int[][]{{1,2,3},{4,5,6}},new int[][]{{1,4},{2,5},{3,6}},"q1d");
         tester1(new int[][]{},new int[][]{},"q1e");
+        tester1(new int[][]{{1,2},{}},new int[][]{{1,2},{}},"my example");
+
 
 
         // test q2
